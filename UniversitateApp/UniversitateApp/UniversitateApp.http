@@ -1,0 +1,6 @@
+@UniversitateApp_HostAddress = http://localhost:5134
+
+GET {{UniversitateApp_HostAddress}}/test/
+Accept: application/json
+
+###
